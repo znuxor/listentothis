@@ -1,0 +1,4 @@
+python-slugify
+youtube-dl
+praw
+mutagen
